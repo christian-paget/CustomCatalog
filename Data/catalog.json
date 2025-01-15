@@ -10,7 +10,8 @@
     "image_link": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
     "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
     "inventory_quantity": 25,
-    "inventory_policy": 1
+    "inventory_policy": 1,
+    "published": False
   },
   {
     "id": "KLAVIYO-TSHIRT2",
