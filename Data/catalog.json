@@ -12,7 +12,7 @@
     "inventory_quantity": 25,
     "inventory_policy": 1,
     "published": false,
-    "list_test": "thing", "thing2"
+    "list_test": "thing,thing2"
   },
   {
     "id": "KLAVIYO-TSHIRT2",
