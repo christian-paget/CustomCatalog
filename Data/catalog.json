@@ -11,7 +11,7 @@
     "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
     "inventory_quantity": 25,
     "inventory_policy": 1,
-    "published": false,
+    "published": true,
     "list_test": "thing,thing2"
   },
   {
