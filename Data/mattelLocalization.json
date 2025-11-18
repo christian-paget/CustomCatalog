@@ -5,15 +5,19 @@
     "link": "mattel.com",
     "description": "Only adding text because this field is required",
     "image_link": "mattel.com",
+    "subject_line_json": "{\"en\": \"Lorem Ipsum\", \"es\": \"Spanish Words\", \"de\": \"German Words \"}"
     "subject_line_en": "Lorem Ipsum",
     "subject_line_es": "Spanish Words",
     "subject_line_de": "German words",
+    "image_json": "{\"en\": \"English image\", \"es\": \"Spanish Image\", \"de\": \"German Image\"}"
     "image_en": "This is a link to an image rendered in English",
     "image_es": "This is a link to an image rendered in Spanish",
     "image_de": "This is a link to an image rendered in German",
-    "body_text_en": "Lots of English words",
+    "body_text_json": "{\"en\": \"Lots of English Words\", \"es\": \"Lots of Spanish Words\", \"de\": \"Lots of German Words \"}"
+    "body_text_en": "Lots of English words", 
     "body_text_es": "Lots of Spanish words",
-    "body_text_de": "Lots of German words"
+    "body_text_de": "Lots of German words",
+    "us": "{\"body_text\": \"Lots of English Words\", \"subject_line\": \"English Words\", \"image_link\": \"English Image\"}"
   },
   {
    "id": "TEMPLATE_ID_2",
@@ -21,7 +25,7 @@
     "link": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
     "description": "Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
     "image_link": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "subject_line_en": "Lorem Ipsum",
+    "subject_line_json": "{\"en\": \"Lorem Ipsum\", \"es\": \"Spanish Words\", \"de\": \"German Words \"}"
     "subject_line_es": "Spanish Words",
     "subject_line_de": "German words",
     "image_en": "",
