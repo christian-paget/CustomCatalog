@@ -13,7 +13,7 @@
     "image_de": "This is a link to an image rendered in German",
     "body_text_en": "Lots of English words",
     "body_text_es": "Lots of Spanish words",
-    "body_text_de": "Lots of German words",
+    "body_text_de": "Lots of German words"
   },
   {
    "id": "TEMPLATE_ID_2",
@@ -29,6 +29,6 @@
     "image_de": "",
     "body_text_en": "Lots of English words",
     "body_text_es": "Lots of Spanish words",
-    "body_text_de": "Lots of German words",
+    "body_text_de": "Lots of German words"
   }
 ]
